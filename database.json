@@ -1,60 +1,367 @@
 {
- "Scrim-Blacklist": [
+ "auto-response": [
   {
-   "guildID": "1140773023935365150",
-   "userID": "463088230787448842",
-   "time": 86400000,
-   "remTime": 85540000,
-   "reason": "تيست",
-   "addedBy": "463088230787448842"
+   "Id": "ZLCFkIpqEn",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "سلام عليكم",
+   "response": [
+    "وعليكم سلام",
+    "وعليكم السلام ورحمة الله وبركاته"
+   ],
+   "reply": "true",
+   "wildcard": true
   },
   {
-   "guildID": "1027502259862503454",
-   "userID": "997910184515096596",
-   "time": 31557600000,
-   "remTime": 29649455000,
-   "reason": "تسجيل وعدم الحضور",
-   "addedBy": "649120022471639044"
+   "Id": "UZXxqVpxiC",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "رابط",
+   "response": [
+    "رايط تحميل اصدار 1.21 https://www.mediafire.com/file/4k6ajlxiht8kp4n/Minecraft_1.21.0_OFFICIAL.apk/file"
+   ],
+   "reply": "true",
+   "wildcard": true
   },
   {
-   "guildID": "1027502259862503454",
-   "userID": "1092857173685567548",
-   "time": 31557600000,
-   "remTime": 29649515000,
-   "reason": "تسجيل وعدم الحضور",
-   "addedBy": "649120022471639044"
+   "Id": "5UEnmz4IIii",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "اصدار",
+   "response": [
+    "1.21 وما فوق"
+   ],
+   "reply": "true",
+   "wildcard": true
   },
   {
-   "guildID": "1027502259862503454",
-   "userID": "1195594051597115497",
-   "time": 31557600000,
-   "remTime": 29649555000,
-   "reason": "تسجيل وعدم الحضور",
-   "addedBy": "649120022471639044"
+   "Id": "A3xOHIdkGj",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "هلا",
+   "response": [
+    "هلاوات 😉",
+    "هلا والله نورت 😉",
+    "هلا بيك 😉",
+    "لا هلا ولا مرحبا 🙂"
+   ],
+   "reply": "true",
+   "wildcard": false
   },
   {
-   "guildID": "1027502259862503454",
-   "userID": "1094760207021789265",
-   "time": 31557600000,
-   "remTime": 29650525000,
-   "reason": "مخالفة الرولز",
-   "addedBy": "649120022471639044"
+   "Id": "uA5NfxOrd1o",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "كيف حالك",
+   "response": [
+    "بخير الحمدلله 😉",
+    "اش دخلك 🙂",
+    "بخير الحمدلله  انت كيف حالك منيح ان شاءالله 😉",
+    "بخير الحمدلله  انت كيف حالك 😉"
+   ],
+   "reply": "true",
+   "wildcard": true
   },
   {
-   "guildID": "1027502259862503454",
-   "userID": "894639897313411072",
-   "time": 31557600000,
-   "remTime": 29650600000,
-   "reason": "مخالفة الرولز",
-   "addedBy": "649120022471639044"
+   "Id": "6ebBtZOX5cB",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "صباح الخير",
+   "response": [
+    "صباح النور يااحلى [userName] 😉",
+    "من صباحية تشوف هيج وجهه 🙂",
+    "صباح النور والسرور 😉",
+    "هلا صباح النور 😉"
+   ],
+   "reply": "true",
+   "wildcard": true
   },
   {
-   "guildID": "1027502259862503454",
-   "userID": "1201561463840587817",
-   "time": 31557600000,
-   "remTime": 29650740000,
-   "reason": "مخالفة الرولز",
-   "addedBy": "649120022471639044"
+   "Id": "Y18xBfYWtm",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "شلونك",
+   "response": [
+    "الحمدلله بخير انت شلونك شخبارك 😉",
+    "الحمدلله بخير 😉",
+    "انت شعليك 🙂",
+    "برتقالي انت شلونك 🙂🙃"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "JyO3oP1uI",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "هلو",
+   "response": [
+    "هلا ومرحبا 😉",
+    "هلا عيني 😉",
+    "لا هلا ولا مرحبا 🙂",
+    "هلاوات 😉"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "rUINswXBVvb5",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "من وين",
+   "response": [
+    "انت شعليك 🙂",
+    "من قلبك 😉",
+    "من المريخ انت من وين 😉",
+    "من المريخ 🙂"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "Q3MydnGcEQy",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "شكرا",
+   "response": [
+    "بل خدمه نحن 😉",
+    "تدلل 😉",
+    "لا شكر على واجب😉",
+    "ولو 😉"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "CYrd3oTv5quH",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "انجب",
+   "response": [
+    "لا انت انجب ☹",
+    "حضر عمامك 🤨",
+    "حضر محاميك 🤨",
+    "شكرا 🥲"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "RB7xf1OKIir",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "خالة",
+   "response": [
+    "ولك لا تصيحه [user] 😒",
+    "اسكت هسه تجي تزعجنا 🤫",
+    "منور خالة 😉",
+    "يمكن خاله نايمه 🤔"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "piWW2UUQbDJy",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "ميكاسا",
+   "response": [
+    "يمكن ميكاسا نايمه 🤔",
+    "منور ميكاسا 😉",
+    "اسكت هسه تجي تزعجنا 🤫",
+    "ولك لا تصيحه [user] 😒"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "frUZij9htj1",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "ميمز",
+   "response": [
+    "https://cdn.discordapp.com/attachments/1141084344631427123/1251567258531004487/IMG_20240615_190103_884.jpg?ex=666f0c57&is=666dbad7&hm=3676b994f5f95878892d17969b5f4651338d0987043e58aa9cd8a62bdb32b4c1&",
+    "https://cdn.discordapp.com/attachments/1141084344631427123/1251567258803765278/IMG_20240615_190103_581.jpg?ex=666f0c57&is=666dbad7&hm=83b9f95daaddaf378f3500af33d96a27636d4bdd3f3d2d7334d7d5e5f08fc160&",
+    "https://cdn.discordapp.com/attachments/1141084344631427123/1251567259080724671/IMG_20240615_190104_346.jpg?ex=666f0c57&is=666dbad7&hm=5624733fb149548db7836af58023b287f7bf0ef94a8e97418af94e4afe0ba4a7&",
+    "https://cdn.discordapp.com/attachments/1141084344631427123/1251567259634241608/IMG_20240615_190103_964.jpg?ex=666f0c57&is=666dbad7&hm=538956bca6ed3017ce63f547317404c5352291f70924b374d7ebbf9892bf7342&",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567259336310814/IMG_20240615_190103_767.jpg?ex=666f0c57&is=666dbad7&hm=c4e4b22d9c1312a16b7d852fcc68839ac41caaaeb22f55e0d468fe51666b31cb&=&format=webp&width=628&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567147558375574/IMG_20240615_190030_720.jpg?ex=666f0c3c&is=666dbabc&hm=85203b9ee92609eadc8f799db48f0d674749842c5c5d2b1f2bab5f7fd15089e7&=&format=webp&width=717&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567147558375574/IMG_20240615_190030_720.jpg?ex=666f0c3c&is=666dbabc&hm=85203b9ee92609eadc8f799db48f0d674749842c5c5d2b1f2bab5f7fd15089e7&=&format=webp&width=717&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567148002840638/IMG_20240615_190030_016.jpg?ex=666f0c3d&is=666dbabd&hm=e8cd045a580983a744c1d0cecc61ebb315420fcf7f3560b87c51ae198cc717ce&=&format=webp&width=521&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567148384653444/IMG_20240615_190030_260.jpg?ex=666f0c3d&is=666dbabd&hm=331a8cd5bde22b2ae54af4f3d9b30dc0f7dd1d325534f85e3bfb5cfaa8350d49&=&format=webp&width=658&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567148762136726/IMG_20240615_190030_604.jpg?ex=666f0c3d&is=666dbabd&hm=3e3499e198737745fae717c2d4890f7da4526e37f3f2067670db302bc45c6f72&=&format=webp&width=592&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567149751996416/IMG_20240615_190030_544.jpg?ex=666f0c3d&is=666dbabd&hm=f45a98a1a69ee69f1945b44113e82a353d81528f3d061aa4ac59de2b9b25312c&=&format=webp&width=407&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567150062243862/IMG_20240615_190023_585.jpg?ex=666f0c3d&is=666dbabd&hm=2dc6dfe15f3657061ba51d650730f563692904e941dda7a1eaf65b19d23d3a41&=&format=webp&width=450&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567150330675294/IMG_20240615_190022_761.jpg?ex=666f0c3d&is=666dbabd&hm=89e28647fe98768e3bec573fefe61f1f488bea97f34cb0a46ce00725ab5ea48f&=&format=webp&width=493&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567150666354688/IMG_20240615_190030_678.jpg?ex=666f0c3d&is=666dbabd&hm=8e312e64ed151a1e6ec3c929bec098553d15d42ffa5332e957f30b4fda755fec&=&format=webp&width=648&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567151148568666/IMG_20240615_190022_886.jpg?ex=666f0c3d&is=666dbabd&hm=9504a8b6fb5664e0e49b0b49a1cc02e3eb34fcc93b9d8e6e3cf0be8d72595c61&=&format=webp&width=572&height=562",
+    "https://media.discordapp.net/attachments/1141084344631427123/1251567151509274624/IMG_20240615_190022_995.jpg?ex=666f0c3d&is=666dbabd&hm=8dc122214c96ecdd31381c80dda0fecbe5fa21466fc75e8bcb728877a84bf368&=&format=webp&width=452&height=562",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252178958691074139/Screenshot_-_TikTok.jpg?ex=66714608&is=666ff488&hm=a6df6edea4f2cb02d78415f48591bc0b2c8c3c2cb6b98f7f9156882f36c09109&=&format=webp&width=443&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252178959056244807/Screenshot_-_TikTok.jpg?ex=66714608&is=666ff488&hm=e2ebccc2fb94fc2c2f04cd675702868f1652495a10602bb1e8d23775d94cd50e&=&format=webp&width=585&height=591",
+    "https://cdn.discordapp.com/attachments/1007603618628784220/1252178959479734322/Screenshot_-_TikTok.jpg?ex=66714608&is=666ff488&hm=70bf8ae7ffc483d307be88d71d0ced4944f8585cb1387f4ffafaf645a3303f22&",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252178959848702014/Screenshot_-_TikTok.jpg?ex=66714608&is=666ff488&hm=7899c9fe4e62d366573ced145025440015ed1518ec3c2c1ab571d88623b05eb0&=&format=webp&width=765&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252178960129851412/Screenshot_-_TikTok.jpg?ex=66714608&is=666ff488&hm=5ebf4db337ac5bbda7cbce7fec2c83946642385f80d9b7ceff071f4edbd1f01b&=&format=webp&width=900&height=450",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252178960461070337/Screenshot_-_TikTok.jpg?ex=66714608&is=666ff488&hm=0d0ef4a39e02d3ecf5f7c50bbd1edace892299f8a621f7b690ea31c35d6456f8&=&format=webp&width=467&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252178960716927057/Screenshot_-_TikTok.jpg?ex=66714608&is=666ff488&hm=2a8a1da840fcf90598986c458f8e5721c56ecdf0f6b8d583be677ed9076ae8a1&=&format=webp&width=585&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252178960977104937/Screenshot_-_TikTok.jpg?ex=66714608&is=666ff488&hm=8a0dd93798bd22e0d3c57e812397bc1b49b0013c350ce5f06ec22a9cd6e002b0&=&format=webp&width=640&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252178961186951188/Screenshot_-_TikTok.jpg?ex=66714608&is=666ff488&hm=afe0fbcc4943fc07769a7e82240f670c326e33d70aaba4641aa6d1a335621e15&=&format=webp&width=640&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252178961408987166/Screenshot_-_TikTok.jpg?ex=66714608&is=666ff488&hm=c521e6466052fa58eb55f5cfec585f8f4f1216d06126cba7a0514b6e4ff3d38b&=&format=webp&width=553&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180228105703424/Screenshot_-_TikTok.jpg?ex=66714736&is=666ff5b6&hm=f08fbbfdddcc448194c0b5d53142b8b23111cae89593c5c60d92b384b001b1fa&=&format=webp&width=772&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180228323938396/Screenshot_-_TikTok.jpg?ex=66714736&is=666ff5b6&hm=e753c78075d13d89669203a434bbdbf8afd52a8a40a00a8c1b0c0a06d6c6ed69&=&format=webp&width=705&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180228583854130/Screenshot_-_TikTok.jpg?ex=66714736&is=666ff5b6&hm=c6893f730bbabd66fbf2dab07e8c12692533f46341380b814c6ce7db38c0821e&=&format=webp&width=640&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180228806021171/Screenshot_-_TikTok.jpg?ex=66714736&is=666ff5b6&hm=d36943b946609c1c11b0a634d8405f46f586d5238013e6fd20508879c0737a7f&=&format=webp&width=601&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180229275783259/Screenshot_-_TikTok.jpg?ex=66714737&is=666ff5b7&hm=d09e93db7cbfb9afb3648655dd958db46d6b4baecc9895f2d6bb8cc4cb3f1003&=&format=webp&width=765&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180229045223424/Screenshot_-_TikTok.jpg?ex=66714736&is=666ff5b6&hm=16a29f11e12b85e4499a4e969b6ebeaa13eb920ec8cbc390b7d790d3d18abd91&=&format=webp&width=470&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180229275783259/Screenshot_-_TikTok.jpg?ex=66714737&is=666ff5b7&hm=d09e93db7cbfb9afb3648655dd958db46d6b4baecc9895f2d6bb8cc4cb3f1003&=&format=webp&width=765&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180229498343434/Screenshot_-_TikTok.jpg?ex=66714737&is=666ff5b7&hm=0d69fa600eae4c47ff4cc6c362c25818e617d939cba0a4e6343dcc539c912fbb&=&format=webp&width=900&height=341",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180229817106564/Screenshot_-_TikTok.jpg?ex=66714737&is=666ff5b7&hm=ab7d3c763d27f991dc15d52ac4a77360e4166cef3406684a38b689e1c43f3b11&=&format=webp&width=773&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180230035079258/Screenshot_-_TikTok.jpg?ex=66714737&is=666ff5b7&hm=9dbdd36c01c1abb013506379c8c1aa6a8eecf0b7aa70fc7b7a8dfebd130596c5&=&format=webp&width=900&height=575",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180230295130195/Screenshot_-_TikTok.jpg?ex=66714737&is=666ff5b7&hm=3e5321933d07b332c718fb8c58beeef9a7c4ee5f166aa67683c78aacd19af473&=&format=webp&width=617&height=591",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180262075236402/Screenshot_-_TikTok.jpg?ex=6671473e&is=666ff5be&hm=ec10e5ae696810cd669384755f65688a5b200b31fba87487147c7c73fe94a52c&=&format=webp&width=887&height=556",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180262377488434/Screenshot_-_TikTok.jpg?ex=6671473e&is=666ff5be&hm=9a83cfb9547e448438daffd0bfa8b28ff9e5415610902cb1f2108a10f1f5716f&=&format=webp&width=768&height=591",
+    "https://cdn.discordapp.com/attachments/1007603618628784220/1252180262993789019/Screenshot_-_TikTok.jpg?ex=6671473f&is=666ff5bf&hm=42a1d72e97a12ac4c3f3e79fe016245da6be195c8eb303f5eec24c811833ba93&",
+    "https://media.discordapp.net/attachments/1007603618628784220/1252180263325405194/Screenshot_-_TikTok.jpg?ex=6671473f&is=666ff5bf&hm=25e31d17a8ed584a27b5c6b9d1592d299d762777e3a9576ca99d90450065c032&=&format=webp&width=613&height=591",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188708883398666/e3da89669ab77c2c6ffb45cad6b0af4d.png?ex=66714f1c&is=666ffd9c&hm=d982f8dc01573c762512ddb7862a68ff69d5a72a85e01c7023238c9d91bb801b&=&format=webp&quality=lossless&width=600&height=591",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188709118283856/8e459321d14947b17ec493d5d8ea13e1.png?ex=66714f1c&is=666ffd9c&hm=b11a31d53a60d68286b4bb6047651a74cca10c9bd20213c9f43016fbf9643fe6&=&format=webp&quality=lossless&width=575&height=431",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188709365874748/0ca0a7492b8d2004252432b6d83e8a9c.png?ex=66714f1c&is=666ffd9c&hm=c35b5d0d35c36103c8fc3bdf01a2461da32e135bf35e5bcdcb5be9770df1b33e&=&format=webp&quality=lossless&width=560&height=590",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188709684510830/41afc1a8187d4275339839a820ca3606.png?ex=66714f1c&is=666ffd9c&hm=4b7e97839423c3d65f5f8a3f5bfff66e3662d4d853cb168a29f1103320934c55&=&format=webp&quality=lossless&width=582&height=591",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188709986504827/74fb291ec203a6ceeef9cb734e3a68a7.png?ex=66714f1d&is=666ffd9d&hm=232a50d6b85dd859f857ef47080e90751bc45d3a61ad7a9c6057f92ea131a873&=&format=webp&quality=lossless&width=600&height=513",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188710208929822/294621de2c90630c009a967f24a1aff1.png?ex=66714f1d&is=666ffd9d&hm=534b32fc2886990b4c4a99393c6f90f0efe85c333af6bd8b7943062e49f6709b&=&format=webp&quality=lossless&width=563&height=591",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188710435291216/9f44dfaf6a25f3970e18c47855b2cf51.png?ex=66714f1d&is=666ffd9d&hm=d6e727bc82435c091bd170e22e65bd5c270a635dacaeb0322438827bd0349324&=&format=webp&quality=lossless&width=462&height=591",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188710728896513/3185c85cfcfd38a1e10bec3ac4335545.png?ex=66714f1d&is=666ffd9d&hm=0cd9250942d57d7e92b4bad65b31d12f3e9d5b44566d91dcd2470edfe1f40caf&=&format=webp&quality=lossless&width=943&height=591",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188711018430505/5e725099be43b482db8c99bbe99ae0f7.png?ex=66714f1d&is=666ffd9d&hm=088fefdea043e92ca2694891aa5db7381c40a4ab33f2eed485b73e10d0e6066c&=&format=webp&quality=lossless&width=601&height=591",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188711018430505/5e725099be43b482db8c99bbe99ae0f7.png?ex=66714f1d&is=666ffd9d&hm=088fefdea043e92ca2694891aa5db7381c40a4ab33f2eed485b73e10d0e6066c&=&format=webp&quality=lossless&width=601&height=591",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188711269957703/381cabb26a36657f35e92f82ef2a1c42.png?ex=66714f1d&is=666ffd9d&hm=55e6980e26b8297496112c62b978ebb275d180da4e28b3c065233ab78ede8975&=&format=webp&quality=lossless&width=591&height=591",
+    "https://media.discordapp.net/attachments/1184054944844755045/1252188708883398666/e3da89669ab77c2c6ffb45cad6b0af4d.png?ex=66714f1c&is=666ffd9c&hm=d982f8dc01573c762512ddb7862a68ff69d5a72a85e01c7023238c9d91bb801b&=&format=webp&quality=lossless&width=600&height=591",
+    "https://cdn.discordapp.com/attachments/1184054944844755045/1252188724289343528/bc76f1b80b25b30f4a2519999d104343.png?ex=66714f20&is=666ffda0&hm=9e517ee952a8953708917e2801bbb224eae8c94e2535798ff95845282b47a709&",
+    "https://cdn.discordapp.com/attachments/1184054944844755045/1252188724603781141/3494bc5eb6d3b9154e12ad9d8a30316f.png?ex=66714f20&is=666ffda0&hm=be9baa30cf21c1a5c976b1be05a8fd3fec305453b43e6eaa68bcea772168119a&",
+    "https://cdn.discordapp.com/attachments/1184054944844755045/1252189703814250537/237f4f73c7464f1f8c7fc3121bbac451.png?ex=66715009&is=666ffe89&hm=c0530bc34b46852e5b6aad96e0575f8b1c3302aa1caeac371b0ec4bf0d3c2c53&"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "0VCRpZ0fMrzFf",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "هل تعلم",
+   "response": [
+    "https://cdn.discordapp.com/attachments/479044877745782801/479046030214692864/download_5.jpg"
+   ],
+   "reply": "true",
+   "wildcard": false
+  },
+  {
+   "Id": "RwrHR8gfbQHq",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "تقديم",
+   "response": [
+    "طريقه دخول السيرفر: \n١- اصدارك لازم يكون 1.21 وما فوق اذا اقل روح حمله من <#1146375772832018452>\n٢-تاكد ان عندك حساب مايكرو سوفت \n٣-روح علا <#1008775108309028924>   وقدم وتأكد من اسمك كل حرف صحيح \n٤-انتضر يقبلوك الادمن من يقبلوك تجيك رساله من البوت مقبول\n٥-ادخل ip nmlcrafts.aternos.me\n\n20060\n\nرابط مباشر https://add.aternos.org/nmlcrafts                     وراح يدخلك لماين كرافت روح عل كلمه server تلقى سيرفرنا nml craft ادخل عليه وبس."
+   ],
+   "reply": "true",
+   "wildcard": false
+  },
+  {
+   "Id": "PcdynwcEk9rb",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "<@1149061921245511811>",
+   "response": [
+    "تفضل [user] 😉",
+    "لا تزعجني 🤨",
+    "شتريد جنت نايم 🥱",
+    "لا تمنشن 😡"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "KbM2TG0FBj",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "جذاب",
+   "response": [
+    "لا انت جذاب 😡",
+    "اسكت واحترم روحك 🤫😠",
+    "اني ما اجذب 🥲",
+    "اني صادق اسال اي واحد 😑"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "icU1ee0mRtD",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "حماية",
+   "response": [
+    "حماية بيتك\n\n1- احداثيات منطقتك :\n\n2- اسمك بماين كرافت :\n\n3- اشخاص الي يكدرون يدخلون لبيتك :\n\n\nدزهم"
+   ],
+   "reply": "true",
+   "wildcard": false
+  },
+  {
+   "Id": "mgOscNLCoET",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "بوت",
+   "response": [
+    "تفضل [user] 😉",
+    "شتريد جنت نايم 🥱",
+    "لا تصيح 😠",
+    "هلا  😉"
+   ],
+   "reply": "true",
+   "wildcard": false
+  },
+  {
+   "Id": "IPq1O9tK8n",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "فصلكم",
+   "response": [
+    "احنه فصلنا مليارين 🤑🤑",
+    "https://media.discordapp.net/attachments/1003575880100102214/1254130662177378455/5a04fa0674141a3f.jpg?ex=66785fb2&is=66770e32&hm=3df551c0c9006cd35690ea408d41c51807248bf167c820485b41159811dbe7f3&=&format=webp&width=488&height=597",
+    "https://media.discordapp.net/attachments/1003575880100102214/1254130661355163718/e690b904c4efa253.jpg?ex=66785fb2&is=66770e32&hm=2d4a21004c6db23ad4c04c3c0ed24e5e31e515ec5545ac9ebcb36373a563f594&=&format=webp&width=576&height=597",
+    "ما ناخد فصول نريد نحله بالتفك 😡🔥🔥"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "zWr5lfqfZpCgT",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "سوشل",
+   "response": [
+    "اسم الرتبة : \nاسم الحساب : \nهل منزل مقطع عن السيرفر : \nمحتواك :"
+   ],
+   "reply": "true",
+   "wildcard": false
+  },
+  {
+   "Id": "qtNC8W6d1nW",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "خاص",
+   "response": [
+    "جايكم 😉",
+    "اجي وياكم 🙄"
+   ],
+   "reply": "true",
+   "wildcard": true
+  },
+  {
+   "Id": "Ug9tNcDmro0",
+   "guildId": "1007607459487158292",
+   "author": "1001108686741192744",
+   "message": "ip",
+   "response": [
+    "nmlmods.aternos.me\n\n53473\n\nرابط مباشر https://add.aternos.org/nmlmods"
+   ],
+   "reply": "true",
+   "wildcard": true
   }
  ]
 }
